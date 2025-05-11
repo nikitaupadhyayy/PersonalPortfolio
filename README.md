@@ -33,8 +33,8 @@ To explore the live portfolio, simply visit:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/nikitaupadhyayy/personalportfolio.git
-   cd portfolio
+   git clone https://github.com/nikitaupadhyayy/PersonalPortfolio.git
+   cd PersonalPortfolio
 
 2. **Open the Project**
 - Open the project folder in your preferred code editor (e.g., **Visual Studio Code**).
