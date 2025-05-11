@@ -33,7 +33,7 @@ To explore the live portfolio, simply visit:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/portfolio.git
+   git clone https://github.com/nikitaupadhyayy/personalportfolio.git
    cd portfolio
 
 2. **Open the Project**
