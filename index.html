@@ -12,6 +12,24 @@
 }
 </style>
 
+<style>
+/* achievements mobile horizontal scroll only */
+@media (max-width: 768px) {
+
+  .mobile-carousel {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x mandatory;
+  }
+
+  .mobile-carousel > div {
+    scroll-snap-align: start;
+  }
+
+}
+</style>
+
+
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="generator" content="Mobirise v6.0.1, mobirise.com">
@@ -255,7 +273,7 @@
 
 				<!-- SLIDE 1 -->
 				<div class="carousel-item active">
-					<div class="row">
+					<div class="row flex-nowrap overflow-auto mobile-carousel">
 
 						<div class="col-12 col-md-6 col-lg-4">
 							<div class="card h-100" style="background-color: #39212b; color: white;">
@@ -309,7 +327,7 @@
 
 				<!-- SLIDE 2 -->
 				<div class="carousel-item">
-					<div class="row">
+					<div class="row flex-nowrap overflow-auto mobile-carousel">
 
 						<div class="col-12 col-md-6 col-lg-4">
 							<div class="card h-100" style="background-color: #39212b; color: white;">
