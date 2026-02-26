@@ -7,9 +7,9 @@ This is a fully responsive portfolio designed to showcase my academic projects, 
 ## 🚀 Features  
 - **Responsive layout that adapts to mobile, tablet, and desktop devices**
 - **Sections for:**
-  - Academic and personal projects
-  - Technical skill highlights
-  - Resume and contact information
+  - Experience
+  - Achivements
+  - Projects
 - **Clean, minimal design for clarity and focus**
 - **Custom styling to maintain aesthetic consistency**
 
