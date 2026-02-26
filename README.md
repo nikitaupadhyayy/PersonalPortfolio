@@ -2,7 +2,7 @@
 ### Author: Nikita Upadhyay
 
 ## 📂 Summary  
-The website you're currently viewing is a fully responsive portfolio designed to showcase my academic projects, technical skills, and professional experience. It was initially prototyped using Mobirise to establish the layout and structure, then customized in Visual Studio Code by directly modifying the HTML and asset files. I enhanced the functionality and styling to reflect personal branding goals, ensuring a clean, consistent design, smooth navigation, and compatibility across all devices.
+This is a fully responsive portfolio designed to showcase my academic projects, technical skills, and professional experience. It was initially prototyped using Mobirise to establish the layout and structure, then customized in Visual Studio Code by directly modifying the HTML and asset files. I enhanced the functionality and styling to reflect personal branding goals, ensuring a clean, consistent design, smooth navigation, and compatibility across all devices.
 
 ## 🚀 Features  
 - **Responsive layout that adapts to mobile, tablet, and desktop devices**
